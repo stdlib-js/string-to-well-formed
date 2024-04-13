@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-to-well-formed",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert a string to a well formed string.",
   "license": "Apache-2.0",
   "author": {
