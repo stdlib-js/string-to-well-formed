@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-to-well-formed/tags). For example,
+
+```javascript
 import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@v0.1.1-deno/mod.js';
 ```
 
@@ -78,7 +83,7 @@ result = str2wellformed( '-5' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@v0.1.1-deno/mod.js';
+import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@deno/mod.js';
 
 var result = str2wellformed( '' );
 // returns ''
