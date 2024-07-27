@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@esm/index.mjs';
+import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@v0.1.1-esm/index.mjs';
 ```
 
 #### str2wellformed( str )
@@ -83,7 +83,7 @@ result = str2wellformed( '-5' );
 <body>
 <script type="module">
 
-import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@esm/index.mjs';
+import str2wellformed from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-well-formed@v0.1.1-esm/index.mjs';
 
 var result = str2wellformed( '' );
 // returns ''
