@@ -49,7 +49,7 @@ No changes reported for this release.
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
--   Pranav
+-   Pranav Goswami
 -   Pratik
 
 </section>
