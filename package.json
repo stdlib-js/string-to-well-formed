@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-to-well-formed",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert a string to a well formed string.",
   "license": "Apache-2.0",
   "author": {
@@ -39,8 +39,8 @@
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
     "@stdlib/assert-is-well-formed-string": "^0.1.1",
-    "@stdlib/string-format": "^0.2.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
+    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
