@@ -65,7 +65,9 @@
   ],
   "keywords": [
     "stdlib",
+    "stdstring",
     "string",
+    "str",
     "well-formed",
     "surrogate",
     "lone-surrogate",
@@ -77,8 +79,10 @@
     "sanitization",
     "conversion",
     "transform",
+    "utilities",
     "utility",
-    "utils"
+    "utils",
+    "util"
   ],
   "funding": {
     "type": "opencollective",
